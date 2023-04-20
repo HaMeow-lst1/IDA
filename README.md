@@ -1,2 +1,2 @@
-# Hidden-Illumination
-Hidden-Illumination For Thermal Pedestrian Detection
+# IDA
+Offical pytorch code for paper "Illumination Distribution-Aware Thermal Pedestrian Detection."
