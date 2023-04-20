@@ -1,2 +1,1 @@
-# IDA
-Offical pytorch code for paper "Illumination Distribution-Aware Thermal Pedestrian Detection."
+# IDA: Offical pytorch code for paper "Illumination Distribution-Aware Thermal Pedestrian Detection."
