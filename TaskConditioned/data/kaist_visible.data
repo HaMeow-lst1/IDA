@@ -1,0 +1,7 @@
+classes= 1
+train  = data/train_visible.txt
+valid  = data/test_visible.txt
+names = data/kaist_person.names
+backup = backupvisible
+logfile = backupvisible/logtrain.txt
+
