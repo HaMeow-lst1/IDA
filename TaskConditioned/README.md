@@ -106,4 +106,4 @@ Please ensure the "IDA.model_path" from IDA_config.py. Note that "IDA.model_path
 python evaluation.py
 ```
 
-Also, you can download our finished models here: <a href="[https://drive.google.com/file/d/1Kyoyira0liRRr_FOY8DDSeATLQAwXtu-/view?usp=sharing](https://drive.google.com/drive/folders/1DslJ-IlTZ5ZzueSKRUIKtbLzmIFj6U_J?usp=sharing)">kaist_thermal_detector.weights </a>.
+Also, you can download our finished models here: <a href="https://drive.google.com/drive/folders/1DslJ-IlTZ5ZzueSKRUIKtbLzmIFj6U_J?usp=share_link">models </a>.
