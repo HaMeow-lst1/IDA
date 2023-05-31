@@ -6,7 +6,7 @@ Please download the dataset here:<a href="https://drive.google.com/file/d/14A3K2
 
 ## Pre-training models
 
-Please download the pre-training models here: <a href="https://drive.google.com/file/d/1Kyoyira0liRRr_FOY8DDSeATLQAwXtu-/view?usp=sharing](https://drive.google.com/drive/folders/1PBcThV9qMB9ZXi8X9lwNAScuAp4sBVds?usp=sharing">pre_models </a>.
+Please download the pre-training models here: <a href="https://drive.google.com/drive/folders/1PBcThV9qMB9ZXi8X9lwNAScuAp4sBVds?usp=sharing">pre_models </a>.
 
 ## Training
 
