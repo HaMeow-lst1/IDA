@@ -1,4 +1,4 @@
-# IDA for FasterRCNN and CascadeRCNN on the KAIST dataset and YOLOv3, FasterRCNN, and CascadeRCNN on FLIR-aligned dataset.
+# IDA for others.
 
 ## Dataset
 
@@ -6,7 +6,7 @@ Please download the dataset here:<a href="https://drive.google.com/file/d/14A3K2
 
 ## Pre-training models
 
-Please download the pre-training models here: <a href="https://drive.google.com/file/d/1Kyoyira0liRRr_FOY8DDSeATLQAwXtu-/view?usp=sharing">kaist_thermal_detector.weights </a> and <a href="https://drive.google.com/file/d/1xiSKTNEB5ng0T5kgyjUKytlpn3q84uK6/view?usp=sharing">kaist_visible_detector.weights </a>. Please put them under "weights" folder.
+Please download the pre-training models here: <a href="https://drive.google.com/file/d/1Kyoyira0liRRr_FOY8DDSeATLQAwXtu-/view?usp=sharing](https://drive.google.com/drive/folders/1PBcThV9qMB9ZXi8X9lwNAScuAp4sBVds?usp=sharing">pre_models </a>.
 
 ## Training
 
