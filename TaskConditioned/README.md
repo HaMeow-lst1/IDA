@@ -107,3 +107,15 @@ python evaluation.py
 ```
 
 Also, you can download our finished models here: <a href="https://drive.google.com/drive/folders/14o9pdR3L6eRIVNe8wi-V4SqOn7uQoara?usp=share_link">models </a>.
+
+## Citation
+
+```latex
+@inproceedings{KieuECCV2020taskconditioned,
+	Author = {Kieu, My and Bagdanov, Andrew D and Bertini, Marco and Del Bimbo, Alberto},
+	Booktitle = {Proc. of European Conference on Computer Vision (ECCV)},
+	Title = {Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery},
+	Year = {2020}
+	}
+
+```
