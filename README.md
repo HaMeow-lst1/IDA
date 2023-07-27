@@ -6,4 +6,4 @@ Thermal pedestrian detection is challenging due to the significant effect of tem
 
 ## Appendix
 
-The "Appendix.pdf" contains more analyze for FasterRCNN and CascadeRCNN on the KAIST and FLIR-aligned dataset.
+The "Appendix.pdf" contains more analysis for FasterRCNN and CascadeRCNN on the KAIST and FLIR-aligned dataset.
